@@ -1,0 +1,6 @@
+{
+  "name": "Chéri Café — Osmanpura, Chhatrapati Sambhajinagar",
+  "description": "A Little Taste of Something Special. Good coffee, beautiful moments and unforgettable flavours at Chéri Café in Osmanpura, Chhatrapati Sambhajinagar, Maharashtra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
